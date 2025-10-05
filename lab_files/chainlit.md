@@ -15,6 +15,6 @@ Welcome to the Cryptozoology Research Terminal, your specialized tool for invest
 
 ## How to Run the Updated Application
 
-1. Make sure you have Chainlit 2.5.5 installed:
+1. Make sure you have Chainlit 2.8.2 installed:
 ```bash
-pip install chainlit==2.5.5
+pip install chainlit==2.8.2
