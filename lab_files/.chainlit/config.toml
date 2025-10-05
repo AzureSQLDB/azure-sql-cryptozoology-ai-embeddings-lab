@@ -66,7 +66,7 @@ edit_message = true
 
 [UI]
 # Name of the assistant.
-name = "Assistant"
+name = "Cryptozoology Research Terminal"
 
 # default_theme = "dark"
 
